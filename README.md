@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Engel David Reyes Perez</h1>
-<h3 align="center">I am passionate about programming. I am especially interested in web development. In my free time, I dedicate myself to learning about programming languages ​​as that will help me improve my skills.</h3>
+<h3 align="center">I am passionate about programming. I am especially interested in web development. In my free time I dedicate myself to learning about programming languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engelreyes06&label=Profile%20views&color=0e75b6&style=flat" alt="engelreyes06" /> </p>
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engelreyes06&show_icons=true&locale=en" alt="engelreyes06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engelreyes06&" alt="engelreyes06" /></p>
+
